@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1038175900923",
+    "firebase_url": "https://daily-expense-app-f1c8e-default-rtdb.firebaseio.com",
+    "project_id": "daily-expense-app-f1c8e",
+    "storage_bucket": "daily-expense-app-f1c8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038175900923:android:4d36324d96fc5892624c5e",
+        "android_client_info": {
+          "package_name": "com.example.dailyexpenseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038175900923-irqkv3mggevdvcjnd8clrbihmqqghikm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dailyexpenseapp",
+            "certificate_hash": "cb29680e5e940044d0b589c8e2ec184bc153274d"
+          }
+        },
+        {
+          "client_id": "1038175900923-d98vbej27a4ddrfatrnjge0lc1fvcuil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPAbWTtUVlnL4entsHXyfe2H_hcdHmm3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038175900923-d98vbej27a4ddrfatrnjge0lc1fvcuil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
